@@ -18,5 +18,6 @@
 
 # Importar un Data Frame
 
+data1 <- read.csv('Fisrt_session.csv')
 
 
